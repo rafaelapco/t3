@@ -1,22 +1,141 @@
-body {
-    margin: auto;
-    margin-top: auto;
-}
-#anel-dois-fios {
-height: 100px;
-  height: 100px;
-  width: 100px;
-  border-radius: 75px;
-}
-#anel-liso { 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  
+  }
+  
+  nav {
+    padding: 4%;
+    text-align: center;
+    background-color: burlywood;
+    display: block;
+  }
+  
+  li a {
+    padding: 15px;
+    font-size: 25px;
+    color: brown;
+    text-decoration: none;
+  }
+  
+  li {
+    list-style: none;
+    display: inline-block;
+  }
+  
+  .container {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  footer {
+    padding: 20px;
+    background-color: burlywood;
+  }
+
+
+
+ #anel-amor {
     height: 100px;
     height: 100px;
-    width: 100px;
-    border-radius: 75px;
+    border-radius: 50px;
 }
-#anel-ramo {
+
+
+#anel-pedraazul {
     height: 100px;
-  height: 100px;
-  width: 100px;
-  border-radius: 75px;
+    height: 100px;
+    border-radius: 50px;
 }
+
+
+#anel-coracao {
+    height: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+
+#anel-flor {
+        height: 100x;
+        height: 100px;
+        border-radius: 50px;
+}
+
+
+#brinco-flor {
+     height: 100px;
+    height: 100px;
+    border-radius: 50px;
+}                 
+
+
+
+#brinco-coracao {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}                 
+   
+#brinco-pedraazul {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}  
+
+
+#brinco-tompedra {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}  
+
+
+#colar-esfera {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}  
+
+
+#colar-coracao {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}  
+
+
+#colar-flor {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}  
+
+
+#pulseira-coracao {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}  
+
+
+#pulseira-zirconia {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}  
+
+#pulseira-tompedra {
+    height: 100px;
+   height: 100px;
+   border-radius: 50px;
+}  
