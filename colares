@@ -11,11 +11,10 @@
     <!-- MENU NAVEGAVEL -->
     <nav>
         <ul>
-          <li><a href="menu.html">Inicio</a></li>
-          <li><a href="aneis.html">Anéis</a></li>
-          <li><a href="brincos.html">Brincos</a></li>
-          <li><a href="colares.html">Colares</a></li>
-          <li><a href="pulseiras.html">Pulseiras</a></li>
+            <li><a href="aneis.html">Anéis</a></li>
+            <li><a href="brincos.html">Brincos</a></li>
+            <li><a href="colares.html">Colares</a></li>
+            <li><a href="pulseiras.html">Pulseiras</a></li>
           </ul>
       </nav>
   </header>
